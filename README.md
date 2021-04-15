@@ -1,4 +1,5 @@
 # xbar-homeassistant-plugin
+![Screenshot 2021-04-15 at 18 25 34](https://user-images.githubusercontent.com/3742238/114904733-738dab00-9e18-11eb-98cc-e0a66a21d187.png)
 
 ## Description
 This is my first attempt to a simple [xbar](https://xbarapp.com/) plugin for my [Home Assistant](https://www.home-assistant.io/) environment. I use it to show the status of the following:
